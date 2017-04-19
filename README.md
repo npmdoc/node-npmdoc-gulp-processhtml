@@ -1,9 +1,14 @@
-# api documentation for  [gulp-processhtml (v1.1.0)](https://github.com/Wildhoney/gulp-processhtml)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-processhtml.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-processhtml) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-processhtml.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-processhtml)
+# npmdoc-gulp-processhtml
+
+#### api documentation for  [gulp-processhtml (v1.1.0)](https://github.com/Wildhoney/gulp-processhtml)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-processhtml.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-processhtml) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-processhtml.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-processhtml)
+
 #### Process html files at build time to modify them as you wish
 
-[![NPM](https://nodei.co/npm/gulp-processhtml.png?downloads=true)](https://www.npmjs.com/package/gulp-processhtml)
+[![NPM](https://nodei.co/npm/gulp-processhtml.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-processhtml)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-processhtml/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-gulp-processhtml_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-processhtml/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-gulp-processhtml/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-processhtml/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-processhtml/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-processhtml/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-gulp-processhtml/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Julien Castelain",
-        "email": "jcastelain@gmail.com",
         "url": "http://www.punkscum.org"
     },
     "bugs": {
@@ -80,13 +84,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "wildhoney",
-            "email": "adam.timberlake@gmail.com"
+            "name": "wildhoney"
         }
     ],
     "name": "gulp-processhtml",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/Wildhoney/gulp-processhtml.git"
@@ -98,16 +100,6 @@
     "version": "1.1.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module gulp-processhtml](#apidoc.module.gulp-processhtml)
-
-
-
-# <a name="apidoc.module.gulp-processhtml"></a>[module gulp-processhtml](#apidoc.module.gulp-processhtml)
 
 
 
